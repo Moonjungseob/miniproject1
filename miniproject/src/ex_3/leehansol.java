@@ -1,7 +1,5 @@
 package ex_3;
 
-import java.util.Scanner;
-
 import ex_2.Person;
 
 public class leehansol extends Person{
