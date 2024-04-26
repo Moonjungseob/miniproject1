@@ -1,5 +1,7 @@
 package ex_4;
 
+import ex_2.Person;
+
 public class limchaesu extends Person{
 
 	public void walk() {
