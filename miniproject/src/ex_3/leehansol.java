@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 import ex_2.Person;
 
-public class leehansol {
-
-	public class Student extends Person{
+public class leehansol extends Person{
 		//공부하기 
 		public void study() {
 			System.out.println("공부하기.");
@@ -22,4 +20,4 @@ public class leehansol {
 
 	}
 
-}
+
