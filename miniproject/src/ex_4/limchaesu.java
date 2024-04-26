@@ -2,9 +2,8 @@ package ex_4;
 
 public class limchaesu {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void walk() {
+		System.out.println("어디서나 당당하게 걷기");
 	}
-
+	
 }
