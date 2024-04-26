@@ -37,5 +37,6 @@ public class Person {
 		public void sleep() {
 			System.out.println("잠자기~~");
 		}
+		
 
 }
